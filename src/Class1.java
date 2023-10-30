@@ -4,4 +4,7 @@ public  class Class1{
     void fun2(){
         
     }
+    void funB2(){
+        
+    }
 }
